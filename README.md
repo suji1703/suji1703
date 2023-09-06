@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suji1703
 - 👀 I’m interested in web development projects
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
